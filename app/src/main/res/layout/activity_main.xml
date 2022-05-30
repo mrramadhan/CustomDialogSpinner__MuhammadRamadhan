@@ -14,5 +14,15 @@
         android:layout_height="wrap_content"
         android:text="Klik disini untuk kenalan"/>
 
+    <TextView
+        android:layout_marginTop="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Kabupaten/Kota Asal"/>
+
+    <Spinner
+        android:id="@+id/spnKabKota"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
 
 </LinearLayout>
